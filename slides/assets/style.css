@@ -52,6 +52,22 @@
   color: #503795;
 }
 
+.reveal pre {
+    border-radius: 15px;
+    padding: 1em;
+    background-color: #f5f5f7;
+    box-shadow: none;
+}
+
+.hljs {
+  background: #f5f5f7;
+}
+
+.reveal code.hljs-keyword {
+  color: #f92672;
+  font-weight: bold;
+}
+
 #calendar {
   table-layout: fixed;
   border-collapse: collapse;
