@@ -48,6 +48,10 @@
   margin: 10px 0;
 }
 
+.reveal table {
+    font-size: 0.5em;
+}
+
 .reveal code {
   color: #503795;
 }
