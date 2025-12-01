@@ -7,3 +7,4 @@ Dieses Repo enthält die Materialien zur Lehrveranstaltung __Datengewinnung und 
 ### Slides
 
  1. [Intro](https://markusschanta.github.io/fhwien-dga-2025/slides/1-intro.html)
+ 2. [Datenbanken und SQL](https://markusschanta.github.io/fhwien-dga-2025/slides/2-SQL.html)
